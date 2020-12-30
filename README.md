@@ -19,5 +19,6 @@ Management Information System student at [University of Cumhuriyet](https://www.
 - Twitter: [trndogukan](https://twitter.com/trndogukan)
 - GitHub: [dogukanturan](https://github.com/dogukanturan)
 - LinkedIn: [dogukanturan](https://linkedin.com/in/dogukanturan)
+- Website: [dogukanturan](https://dogukanturan.com)
 - Medium: [DevOpsGuy](https://devopsguy.medium.com)
 - E-mail: [Outlook](mailto:turandogu@outlook.com)
