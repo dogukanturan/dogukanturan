@@ -12,7 +12,7 @@ Management Information System student at [University of Cumhuriyet](https://www.
 - 🚀 I'm currently working **DevOps** | **DevSecOps** 
 - 💻 I’m currently learning **Python** | **Go** | **Bash**
 - ⚙️ Mastering: `.yaml`,`.kube`,`.helm`,`.py`,`.go`, `.sh`
-- 🎡 My hobbies: `Security`,`CTF`,`Chess`
+- 🎡 My hobbies: `CTF`,`Chess`
 
 ### 📬 Get in Touch
 
