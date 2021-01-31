@@ -6,8 +6,6 @@
 ![Python](https://img.shields.io/badge/Python-aqua)
 ![GoLang](https://img.shields.io/badge/Go-aqua)<br>
 
-Management Information System student at [University of Cumhuriyet](https://www.cumhuriyet.edu.tr).
-
 - 🔭 I’m currently studying **Management Information System** at Cumhuriyet University
 - 🚀 I'm currently working **DevOps** | **DevSecOps** 
 - 💻 I’m currently learning **Python** | **Go** | **Bash**
