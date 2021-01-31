@@ -23,7 +23,7 @@ Management Information System student at [University of Cumhuriyet](https://www.
 - Medium: [DevOpsGuy](https://devopsguy.medium.com)
 - E-mail: [Outlook](mailto:turandogu@outlook.com)
 
-### 🖊 Türkçe Yazılarım
+### 🖊 Some of My Articles [TR]
 
 - [K3D İle K3S Kubernetes Cluster Kurulumu](https://medium.com/devopsturkiye/k3d-i%CC%87le-k3s-kubernetes-cluster-kurulumu-38e71acda9cb)
 - [Kind Kullanarak Kubernetes Cluster Kurulumu](https://medium.com/devopsturkiye/vagrant-ve-kind-kullanarak-kubernetes-cluster-kurulumu-10bbee85eda1)
