@@ -22,3 +22,9 @@ Management Information System student at [University of Cumhuriyet](https://www.
 - Website: [dogukanturan](https://dogukanturan.com)
 - Medium: [DevOpsGuy](https://devopsguy.medium.com)
 - E-mail: [Outlook](mailto:turandogu@outlook.com)
+
+### 🖊 Türkçe Yazılarım
+
+- [K3D İle K3S Kubernetes Cluster Kurulumu](https://medium.com/devopsturkiye/k3d-i%CC%87le-k3s-kubernetes-cluster-kurulumu-38e71acda9cb)
+- [Kind Kullanarak Kubernetes Cluster Kurulumu](https://medium.com/devopsturkiye/vagrant-ve-kind-kullanarak-kubernetes-cluster-kurulumu-10bbee85eda1)
+- [Portainer Nedir? | Docker ile Portainer Kurulumu](https://medium.com/devopsturkiye/docker-ile-portainer-kurulumu-ve-portainera-h%C4%B1zl%C4%B1-bak%C4%B1%C5%9F-2fdcf2b31deb)
