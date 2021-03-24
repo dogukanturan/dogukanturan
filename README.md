@@ -1,4 +1,4 @@
-# Hi, I'm Dogukan 👋
+# Hi! 👋
 
 ![Docker](https://img.shields.io/badge/Docker-blue)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue)
