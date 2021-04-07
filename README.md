@@ -15,11 +15,10 @@
 ### 📬 Get in Touch
 
 - Twitter: [trndogukan](https://twitter.com/trndogukan)
-- GitHub: [dogukanturan](https://github.com/dogukanturan)
-- LinkedIn: [dogukanturan](https://linkedin.com/in/dogukanturan)
+- Linkedin: [dogukanturan](https://linkedin.com/in/dogukanturan)
 - Website: [dogukanturan](https://dogukanturan.com)
 - Medium: [DevOpsGuy](https://devopsguy.medium.com)
-- E-mail: [Outlook](mailto:turandogu@outlook.com)
+- Mail: [Mail](mailto:dogukanturanx@gmail.com)
 
 ### 🖊 Some of My Articles [TR]
 
