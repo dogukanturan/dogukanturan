@@ -14,11 +14,9 @@
 
 ### 📬 Get in Touch
 
-- Twitter: [trndogukan](https://twitter.com/trndogukan)
 - Linkedin: [dogukanturan](https://linkedin.com/in/dogukanturan)
 - Website: [dogukanturan](https://dogukanturan.com)
 - Medium: [DevOpsGuy](https://devopsguy.medium.com)
-- Mail: [GMail](mailto:dogukanturanx@gmail.com)
 
 ### 🖊 Some of My Articles [TR]
 
