@@ -9,7 +9,6 @@
 - 🔭 I’m currently studying **Management Information System** at Cumhuriyet University
 - 🚀 I'm currently working **DevOps** | **DevSecOps** 
 - 💻 I’m currently learning **Python** | **Go** | **Bash**
-- ⚙️ Mastering: `.yaml`,`.kube`,`.helm`,`.py`,`.go`, `.sh`
 - 🎡 My hobbies: `CTF`,`Chess`
 
 ### 📬 Get in Touch
