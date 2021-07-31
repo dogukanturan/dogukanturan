@@ -10,7 +10,7 @@
 - 💻 I’m currently learning **Python** | **Go** | **Bash**
 - 🎡 My hobbies: `CTF`,`Chess`
 
-### 📬 Get in Touch
+### 📬 Let's Stay in Touch
 
 - Linkedin: [dogukanturan](https://linkedin.com/in/dogukanturan)
 - Website: [dogukanturan](https://dogukanturan.com)
