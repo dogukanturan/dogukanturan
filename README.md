@@ -1,20 +1,9 @@
 # Hi! 👋
 
-![Docker](https://img.shields.io/badge/Docker-blue)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue)
-![CI/CD](https://img.shields.io/badge/CI/CD-red)
-![Python](https://img.shields.io/badge/Python-aqua)
-![GoLang](https://img.shields.io/badge/Go-aqua)<br>
-
-- 🚀 I'm currently working **DevOps** | **DevSecOps** 
-- 💻 I’m currently learning **Python** | **Go** | **Bash**
-- 🎡 My hobbies: `CTF`,`Chess`
-
 ### 📬 Let's Stay in Touch
 
 - Linkedin: [dogukanturan](https://linkedin.com/in/dogukanturan)
-- Website: [dogukanturan](https://dogukanturan.com)
-- Medium: [DevOpsGuy](https://devopsguy.medium.com)
+- Blog: [dogukanturan](https://dogukanturan.com)
 
 ### 🖊 Some of My Articles [TR]
 
