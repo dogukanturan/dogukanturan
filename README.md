@@ -5,7 +5,7 @@
 - Linkedin: [dogukanturan](https://linkedin.com/in/dogukanturan)
 - Blog: [dogukanturan](https://dogukanturan.com)
 
-### 🖊 Some of My Articles [TR]
+### 🖊 Recent Articles on Blog
 
 - [2022-02-17 --> Helm 101](https://dogukanturan.com/posts/helm-101/helm-101/)
 - [2020-11-03 --> K3D İle K3S Kubernetes Cluster Kurulumu](https://medium.com/devopsturkiye/k3d-i%CC%87le-k3s-kubernetes-cluster-kurulumu-38e71acda9cb)
