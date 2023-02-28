@@ -1,4 +1,4 @@
-# Hi! 👋
+# Hello There, I'm Dogukan 👋
 
 ### 📬 Let's Stay in Touch
 
