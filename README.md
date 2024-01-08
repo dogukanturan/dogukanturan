@@ -3,8 +3,8 @@
 ### 📬 Let's Stay in Touch
 
 - Linkedin: [dogukanturan](https://linkedin.com/in/dogukanturan)
-- Blog: [dogukanturan](https://dogukanturan.com)
-
+- Twitter: [/imdotu](https://x.com/imdotu)
+  
 ### 🖊 Recent Articles on Blog
 
 - [2022-02-17 --> Helm 101](https://dogukanturan.com/posts/helm-101/helm-101/)
