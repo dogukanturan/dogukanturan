@@ -16,4 +16,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://dotu.dev/index.xml,https://medium.com/feed/@devopsguy"
+          feed_list: "https://dotu.dev/index.xml" # for medium: https://medium.com/feed/@devopsguy
