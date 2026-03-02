@@ -22,6 +22,9 @@
    <img src="./static/cka_badge.png" alt="CKA Badge" width="120">
 </a>
 <a href="https://www.credly.com/badges/15bf83b3-5233-4906-9fa1-10b2451b0f8b/public_url">
+   <img src="./static/KCSA_badge.png" alt="KCSA Badge" width="120">
+</a>
+<a href="https://www.credly.com/badges/15bf83b3-5233-4906-9fa1-10b2451b0f8b/public_url">
    <img src="./static/KCNA_badge.png" alt="KCNA Badge" width="120">
 </a>
 <a href="https://www.credential.net/1c55b8ae-7bb0-4c77-9653-527cee22879e">
