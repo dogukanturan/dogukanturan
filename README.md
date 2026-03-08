@@ -21,6 +21,9 @@
 <a href="https://www.credly.com/badges/7a93e3a2-cd90-4935-a55f-60f5510ca0c0/public_url">
    <img src="./static/cka_badge.png" alt="CKA Badge" width="120">
 </a>
+<a href="https://www.credly.com/badges/9c3f9568-2b7c-499d-97c0-f584a9e99846/public_url">
+   <img src="./static/ckad_badge.png" alt="CKAD Badge" width="120">
+</a>
 <a href="https://www.credly.com/earner/earned/badge/06399598-44e2-47ca-83a7-42f7d1b3acf3/public_url">
    <img src="./static/KCSA_badge.png" alt="KCSA Badge" width="120">
 </a>
