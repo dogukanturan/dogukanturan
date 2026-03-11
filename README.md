@@ -18,6 +18,9 @@
 
 # 🎯 Certificates
 
+<a href="https://www.credly.com/badges/2b39074e-d254-4657-9fef-394227250977/public_url">
+   <img src="./static/cks_badge.png" alt="CKS Badge" width="120">
+</a>
 <a href="https://www.credly.com/badges/7a93e3a2-cd90-4935-a55f-60f5510ca0c0/public_url">
    <img src="./static/cka_badge.png" alt="CKA Badge" width="120">
 </a>
@@ -25,10 +28,10 @@
    <img src="./static/ckad_badge.png" alt="CKAD Badge" width="120">
 </a>
 <a href="https://www.credly.com/earner/earned/badge/06399598-44e2-47ca-83a7-42f7d1b3acf3/public_url">
-   <img src="./static/KCSA_badge.png" alt="KCSA Badge" width="120">
+   <img src="./static/kcsa_badge.png" alt="KCSA Badge" width="120">
 </a>
 <a href="https://www.credly.com/badges/15bf83b3-5233-4906-9fa1-10b2451b0f8b/public_url">
-   <img src="./static/KCNA_badge.png" alt="KCNA Badge" width="120">
+   <img src="./static/kcna_badge.png" alt="KCNA Badge" width="120">
 </a>
 <a href="https://www.credential.net/1c55b8ae-7bb0-4c77-9653-527cee22879e">
    <img src="./static/gcp_cloud_architect.png" alt="GCP Cloud Architect" width="120">
