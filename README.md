@@ -1,7 +1,5 @@
 # Hello There
 
-![Darth Vader](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWowMHg4anhzZWk4Nm51ajRnM3J1dWswYzRmcTAyd3J5am52eHUwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2w5MMNvg70MrQ0I2DR/giphy.gif)
-
 # 📬 Let's Stay in Touch
 
 - Linkedin: [/dogukanturan](https://linkedin.com/in/dogukanturan)
