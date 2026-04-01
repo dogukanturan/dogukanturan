@@ -20,12 +20,12 @@
 
 # 🎯 Certificates
 
-[<img src="./static/kubestronaut.png" alt="Kubestronaut Badge" width="150">](https://www.credly.com/badges/297ba996-04b8-4304-896d-ad71420b0651/public_url)
-[<img src="./static/cks-badge.png" alt="CKS Badge" width="150">](https://www.credly.com/badges/2b39074e-d254-4657-9fef-394227250977/public_url)
-[<img src="./static/cka-badge.png" alt="CKA Badge" width="150">](https://www.credly.com/badges/7a93e3a2-cd90-4935-a55f-60f5510ca0c0/public_url)
-[<img src="./static/ckad-badge.png" alt="CKAD Badge" width="150">](https://www.credly.com/badges/9c3f9568-2b7c-499d-97c0-f584a9e99846/public_url)
-[<img src="./static/kcsa-badge.png" alt="KCSA Badge" width="150">](https://www.credly.com/earner/earned/badge/06399598-44e2-47ca-83a7-42f7d1b3acf3/public_url)
-[<img src="./static/kcna-badge.png" alt="KCNA Badge" width="150">](https://www.credly.com/badges/15bf83b3-5233-4906-9fa1-10b2451b0f8b/public_url)
+[<img src="./static/kubestronaut.png" alt="Kubestronaut Badge" width="120">](https://www.credly.com/badges/297ba996-04b8-4304-896d-ad71420b0651/public_url)
+[<img src="./static/cks-badge.png" alt="CKS Badge" width="120">](https://www.credly.com/badges/2b39074e-d254-4657-9fef-394227250977/public_url)
+[<img src="./static/cka-badge.png" alt="CKA Badge" width="120">](https://www.credly.com/badges/7a93e3a2-cd90-4935-a55f-60f5510ca0c0/public_url)
+[<img src="./static/ckad-badge.png" alt="CKAD Badge" width="120">](https://www.credly.com/badges/9c3f9568-2b7c-499d-97c0-f584a9e99846/public_url)
+[<img src="./static/kcsa-badge.png" alt="KCSA Badge" width="120">](https://www.credly.com/earner/earned/badge/06399598-44e2-47ca-83a7-42f7d1b3acf3/public_url)
+[<img src="./static/kcna-badge.png" alt="KCNA Badge" width="120">](https://www.credly.com/badges/15bf83b3-5233-4906-9fa1-10b2451b0f8b/public_url)
 
-[<img src="./static/gcp_cloud_architect.png" alt="GCP Cloud Architect" width="150">](https://www.credential.net/1c55b8ae-7bb0-4c77-9653-527cee22879e)
-[<img src="./static/gcp_cloud_devops.png" alt="GCP Cloud DevOps" width="150">](https://www.credential.net/5be7e31b-cb4b-49e5-b708-db952d61c361)
+[<img src="./static/gcp_cloud_architect.png" alt="GCP Cloud Architect" width="120">](https://www.credential.net/1c55b8ae-7bb0-4c77-9653-527cee22879e)
+[<img src="./static/gcp_cloud_devops.png" alt="GCP Cloud DevOps" width="120">](https://www.credential.net/5be7e31b-cb4b-49e5-b708-db952d61c361)
