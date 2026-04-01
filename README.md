@@ -16,6 +16,9 @@
 
 # 🎯 Certificates
 
+<a href="https://www.credly.com/badges/297ba996-04b8-4304-896d-ad71420b0651/public_url">
+   <img src="./static/kubestronaut.png" alt="Kubestronaut Badge" width="120">
+</a>
 <a href="https://www.credly.com/badges/2b39074e-d254-4657-9fef-394227250977/public_url">
    <img src="./static/cks-badge.png" alt="CKS Badge" width="120">
 </a>
